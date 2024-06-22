@@ -17,7 +17,7 @@ int xuatHien(vector<int>& nums, int n) {
 int majorityElement(vector<int>& nums) {
 	// Solution 1
 	
-	int count = 0;
+	/*int count = 0;
 	for(int i = 0; i < nums.size(); i++) {
 		for (int j = 0; j < nums.size(); ++j) {
 			if (nums[i] == nums[j]) {
@@ -28,7 +28,24 @@ int majorityElement(vector<int>& nums) {
 			return nums[i];
 		}
 		count = 0;
+	}*/
+
+	// Solution 2
+
+	int n = nums.size() / 2;
+
+	unordered_map<int, int>mp;
+	for (int element : nums) {
+		mp[element]++;
 	}
+
+	for (const auto& pair : mp) {
+		if (pair.second > n) {
+			return pair.first;
+		}
+	}
+
+	return -1;
 	
 	return -1;
 }
