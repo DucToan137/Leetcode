@@ -82,10 +82,33 @@ bool isValid(string s) {
 	return false;
 }
 
+
+bool isValid1(string s) {
+	stack<char> st;
+	int n = s.size();
+
+	for (char c:s) {
+		if (c == '(' || c == '[' || c == '{') {
+			st.push(c);
+		}
+		else {
+			if (st.empty() ||
+				(c != ')' && st.top() == '(' ||
+					c != ']' && st.top() == '[' ||
+					c != '}' && st.top() == '{')) {
+				return false;
+			}
+			st.pop();
+		}
+	}
+
+	return st.empty();
+}
+
 int main() {
 
 	string s = "{}{}{}{}{}{(([[]]))]";
-	cout << isValid(s) << endl;
+	cout << isValid1(s) << endl;
 
 	return 0;
 }
