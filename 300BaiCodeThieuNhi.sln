@@ -113,6 +113,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3184.Count-Pairs-That-From-
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3005.Count-Elements-With-Maximum-Frequency", "3005.Count-Elements-With-Maximum-Frequency\3005.Count-Elements-With-Maximum-Frequency.vcxproj", "{6C8D35D0-D5DC-490A-96EE-BB61C0D32E49}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1672.Richest-Customer-Wealth", "1672.Richest-Customer-Wealth\1672.Richest-Customer-Wealth.vcxproj", "{64888311-D778-40DD-BF28-D2F0F59376AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -561,6 +563,14 @@ Global
 		{6C8D35D0-D5DC-490A-96EE-BB61C0D32E49}.Release|x64.Build.0 = Release|x64
 		{6C8D35D0-D5DC-490A-96EE-BB61C0D32E49}.Release|x86.ActiveCfg = Release|Win32
 		{6C8D35D0-D5DC-490A-96EE-BB61C0D32E49}.Release|x86.Build.0 = Release|Win32
+		{64888311-D778-40DD-BF28-D2F0F59376AC}.Debug|x64.ActiveCfg = Debug|x64
+		{64888311-D778-40DD-BF28-D2F0F59376AC}.Debug|x64.Build.0 = Debug|x64
+		{64888311-D778-40DD-BF28-D2F0F59376AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{64888311-D778-40DD-BF28-D2F0F59376AC}.Debug|x86.Build.0 = Debug|Win32
+		{64888311-D778-40DD-BF28-D2F0F59376AC}.Release|x64.ActiveCfg = Release|x64
+		{64888311-D778-40DD-BF28-D2F0F59376AC}.Release|x64.Build.0 = Release|x64
+		{64888311-D778-40DD-BF28-D2F0F59376AC}.Release|x86.ActiveCfg = Release|Win32
+		{64888311-D778-40DD-BF28-D2F0F59376AC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
