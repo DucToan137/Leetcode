@@ -141,6 +141,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "350.Intersection-of-Two-Arr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "367.Valid-Perfect-Square", "367.Valid-Perfect-Square\367.Valid-Perfect-Square.vcxproj", "{DB5FDB6B-DA6D-4A6C-A37A-C257F0B851B9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "387.First-Unique-Character-in-a-String", "387.First-Unique-Character-in-a-String\387.First-Unique-Character-in-a-String.vcxproj", "{605368F7-E39F-4B73-8D81-34C1E120A23A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -701,6 +703,14 @@ Global
 		{DB5FDB6B-DA6D-4A6C-A37A-C257F0B851B9}.Release|x64.Build.0 = Release|x64
 		{DB5FDB6B-DA6D-4A6C-A37A-C257F0B851B9}.Release|x86.ActiveCfg = Release|Win32
 		{DB5FDB6B-DA6D-4A6C-A37A-C257F0B851B9}.Release|x86.Build.0 = Release|Win32
+		{605368F7-E39F-4B73-8D81-34C1E120A23A}.Debug|x64.ActiveCfg = Debug|x64
+		{605368F7-E39F-4B73-8D81-34C1E120A23A}.Debug|x64.Build.0 = Debug|x64
+		{605368F7-E39F-4B73-8D81-34C1E120A23A}.Debug|x86.ActiveCfg = Debug|Win32
+		{605368F7-E39F-4B73-8D81-34C1E120A23A}.Debug|x86.Build.0 = Debug|Win32
+		{605368F7-E39F-4B73-8D81-34C1E120A23A}.Release|x64.ActiveCfg = Release|x64
+		{605368F7-E39F-4B73-8D81-34C1E120A23A}.Release|x64.Build.0 = Release|x64
+		{605368F7-E39F-4B73-8D81-34C1E120A23A}.Release|x86.ActiveCfg = Release|Win32
+		{605368F7-E39F-4B73-8D81-34C1E120A23A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
