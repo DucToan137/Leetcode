@@ -159,6 +159,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "507.Perfect-Number", "507.P
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "520.Detect-Capital", "520.Detect-Capital\520.Detect-Capital.vcxproj", "{49620264-D522-4B50-9458-5EF30434AEBD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3110.Score-of-a-String", "3110.Score-of-a-String\3110.Score-of-a-String.vcxproj", "{99E507C8-6518-4878-83B5-F3C62D664661}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -791,6 +793,14 @@ Global
 		{49620264-D522-4B50-9458-5EF30434AEBD}.Release|x64.Build.0 = Release|x64
 		{49620264-D522-4B50-9458-5EF30434AEBD}.Release|x86.ActiveCfg = Release|Win32
 		{49620264-D522-4B50-9458-5EF30434AEBD}.Release|x86.Build.0 = Release|Win32
+		{99E507C8-6518-4878-83B5-F3C62D664661}.Debug|x64.ActiveCfg = Debug|x64
+		{99E507C8-6518-4878-83B5-F3C62D664661}.Debug|x64.Build.0 = Debug|x64
+		{99E507C8-6518-4878-83B5-F3C62D664661}.Debug|x86.ActiveCfg = Debug|Win32
+		{99E507C8-6518-4878-83B5-F3C62D664661}.Debug|x86.Build.0 = Debug|Win32
+		{99E507C8-6518-4878-83B5-F3C62D664661}.Release|x64.ActiveCfg = Release|x64
+		{99E507C8-6518-4878-83B5-F3C62D664661}.Release|x64.Build.0 = Release|x64
+		{99E507C8-6518-4878-83B5-F3C62D664661}.Release|x86.ActiveCfg = Release|Win32
+		{99E507C8-6518-4878-83B5-F3C62D664661}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
