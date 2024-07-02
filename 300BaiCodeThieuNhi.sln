@@ -161,6 +161,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "520.Detect-Capital", "520.D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3110.Score-of-a-String", "3110.Score-of-a-String\3110.Score-of-a-String.vcxproj", "{99E507C8-6518-4878-83B5-F3C62D664661}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1678.Goal-Parser-Interpretation", "1678.Goal-Parser-Interpretation\1678.Goal-Parser-Interpretation.vcxproj", "{63D0C33A-A713-4ABD-AD92-26481C1A38B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -801,6 +803,14 @@ Global
 		{99E507C8-6518-4878-83B5-F3C62D664661}.Release|x64.Build.0 = Release|x64
 		{99E507C8-6518-4878-83B5-F3C62D664661}.Release|x86.ActiveCfg = Release|Win32
 		{99E507C8-6518-4878-83B5-F3C62D664661}.Release|x86.Build.0 = Release|Win32
+		{63D0C33A-A713-4ABD-AD92-26481C1A38B5}.Debug|x64.ActiveCfg = Debug|x64
+		{63D0C33A-A713-4ABD-AD92-26481C1A38B5}.Debug|x64.Build.0 = Debug|x64
+		{63D0C33A-A713-4ABD-AD92-26481C1A38B5}.Debug|x86.ActiveCfg = Debug|Win32
+		{63D0C33A-A713-4ABD-AD92-26481C1A38B5}.Debug|x86.Build.0 = Debug|Win32
+		{63D0C33A-A713-4ABD-AD92-26481C1A38B5}.Release|x64.ActiveCfg = Release|x64
+		{63D0C33A-A713-4ABD-AD92-26481C1A38B5}.Release|x64.Build.0 = Release|x64
+		{63D0C33A-A713-4ABD-AD92-26481C1A38B5}.Release|x86.ActiveCfg = Release|Win32
+		{63D0C33A-A713-4ABD-AD92-26481C1A38B5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
