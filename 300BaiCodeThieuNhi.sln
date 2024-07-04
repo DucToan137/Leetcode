@@ -181,6 +181,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1748.Sum-of-Unique-Elements
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3131.Find-the-Integer-Added-to-Array-I", "3131.Find-the-Integer-Added-to-Array-I\3131.Find-the-Integer-Added-to-Array-I.vcxproj", "{9E9A1C66-5125-477B-B014-147EE53DC720}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2778.Sum-of-Squares-of-Special-Elements", "2778.Sum-of-Squares-of-Special-Elements\2778.Sum-of-Squares-of-Special-Elements.vcxproj", "{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -901,6 +903,14 @@ Global
 		{9E9A1C66-5125-477B-B014-147EE53DC720}.Release|x64.Build.0 = Release|x64
 		{9E9A1C66-5125-477B-B014-147EE53DC720}.Release|x86.ActiveCfg = Release|Win32
 		{9E9A1C66-5125-477B-B014-147EE53DC720}.Release|x86.Build.0 = Release|Win32
+		{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}.Debug|x64.ActiveCfg = Debug|x64
+		{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}.Debug|x64.Build.0 = Debug|x64
+		{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}.Debug|x86.Build.0 = Debug|Win32
+		{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}.Release|x64.ActiveCfg = Release|x64
+		{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}.Release|x64.Build.0 = Release|x64
+		{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}.Release|x86.ActiveCfg = Release|Win32
+		{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
