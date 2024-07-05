@@ -183,6 +183,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3131.Find-the-Integer-Added
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2778.Sum-of-Squares-of-Special-Elements", "2778.Sum-of-Squares-of-Special-Elements\2778.Sum-of-Squares-of-Special-Elements.vcxproj", "{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1844.Replace-All-Digits-with-Characters", "1844.Replace-All-Digits-with-Characters\1844.Replace-All-Digits-with-Characters.vcxproj", "{5200B52F-6650-48A4-BECB-1A8D0782E4D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -911,6 +913,14 @@ Global
 		{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}.Release|x64.Build.0 = Release|x64
 		{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}.Release|x86.ActiveCfg = Release|Win32
 		{5EAA5AF7-A8B7-4601-9C1D-18484FD2713E}.Release|x86.Build.0 = Release|Win32
+		{5200B52F-6650-48A4-BECB-1A8D0782E4D7}.Debug|x64.ActiveCfg = Debug|x64
+		{5200B52F-6650-48A4-BECB-1A8D0782E4D7}.Debug|x64.Build.0 = Debug|x64
+		{5200B52F-6650-48A4-BECB-1A8D0782E4D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{5200B52F-6650-48A4-BECB-1A8D0782E4D7}.Debug|x86.Build.0 = Debug|Win32
+		{5200B52F-6650-48A4-BECB-1A8D0782E4D7}.Release|x64.ActiveCfg = Release|x64
+		{5200B52F-6650-48A4-BECB-1A8D0782E4D7}.Release|x64.Build.0 = Release|x64
+		{5200B52F-6650-48A4-BECB-1A8D0782E4D7}.Release|x86.ActiveCfg = Release|Win32
+		{5200B52F-6650-48A4-BECB-1A8D0782E4D7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
