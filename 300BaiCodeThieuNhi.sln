@@ -197,6 +197,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2503.Kth-Distinct-String-in
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2185.Counting-Words-With-a-Given-Prefix", "2185.Counting-Words-With-a-Given-Prefix\2185.Counting-Words-With-a-Given-Prefix.vcxproj", "{D0499AB8-5E96-4472-9CFE-CCE75FDE7C84}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2418.Sort-the-People", "2418.Sort-the-People\2418.Sort-the-People.vcxproj", "{FA003C88-0468-4165-B77E-223B92BCEF32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -981,6 +983,14 @@ Global
 		{D0499AB8-5E96-4472-9CFE-CCE75FDE7C84}.Release|x64.Build.0 = Release|x64
 		{D0499AB8-5E96-4472-9CFE-CCE75FDE7C84}.Release|x86.ActiveCfg = Release|Win32
 		{D0499AB8-5E96-4472-9CFE-CCE75FDE7C84}.Release|x86.Build.0 = Release|Win32
+		{FA003C88-0468-4165-B77E-223B92BCEF32}.Debug|x64.ActiveCfg = Debug|x64
+		{FA003C88-0468-4165-B77E-223B92BCEF32}.Debug|x64.Build.0 = Debug|x64
+		{FA003C88-0468-4165-B77E-223B92BCEF32}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA003C88-0468-4165-B77E-223B92BCEF32}.Debug|x86.Build.0 = Debug|Win32
+		{FA003C88-0468-4165-B77E-223B92BCEF32}.Release|x64.ActiveCfg = Release|x64
+		{FA003C88-0468-4165-B77E-223B92BCEF32}.Release|x64.Build.0 = Release|x64
+		{FA003C88-0468-4165-B77E-223B92BCEF32}.Release|x86.ActiveCfg = Release|Win32
+		{FA003C88-0468-4165-B77E-223B92BCEF32}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
