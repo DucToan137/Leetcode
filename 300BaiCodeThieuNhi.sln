@@ -203,6 +203,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1455.Check-If-a-Word-Occurs
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2652.Sum-Multiples", "2652.Sum-Multiples\2652.Sum-Multiples.vcxproj", "{12966978-1B98-4621-A639-3C460A62D2D1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2278.Percentage-of-Letter-in-String", "2278.Percentage-of-Letter-in-String\2278.Percentage-of-Letter-in-String.vcxproj", "{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1011,6 +1013,14 @@ Global
 		{12966978-1B98-4621-A639-3C460A62D2D1}.Release|x64.Build.0 = Release|x64
 		{12966978-1B98-4621-A639-3C460A62D2D1}.Release|x86.ActiveCfg = Release|Win32
 		{12966978-1B98-4621-A639-3C460A62D2D1}.Release|x86.Build.0 = Release|Win32
+		{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}.Debug|x64.ActiveCfg = Debug|x64
+		{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}.Debug|x64.Build.0 = Debug|x64
+		{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}.Debug|x86.Build.0 = Debug|Win32
+		{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}.Release|x64.ActiveCfg = Release|x64
+		{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}.Release|x64.Build.0 = Release|x64
+		{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}.Release|x86.ActiveCfg = Release|Win32
+		{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
