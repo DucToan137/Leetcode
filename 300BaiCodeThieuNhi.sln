@@ -205,6 +205,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2652.Sum-Multiples", "2652.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2278.Percentage-of-Letter-in-String", "2278.Percentage-of-Letter-in-String\2278.Percentage-of-Letter-in-String.vcxproj", "{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2520.Count-the-Digits-That-Divide-a-Number", "2520.Count-the-Digits-That-Divide-a-Number\2520.Count-the-Digits-That-Divide-a-Number.vcxproj", "{677178AD-0A20-4569-8CC3-60D8E7D69203}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1021,6 +1023,14 @@ Global
 		{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}.Release|x64.Build.0 = Release|x64
 		{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}.Release|x86.ActiveCfg = Release|Win32
 		{3C05F9FF-DC07-4409-BD8B-A22F2BC01340}.Release|x86.Build.0 = Release|Win32
+		{677178AD-0A20-4569-8CC3-60D8E7D69203}.Debug|x64.ActiveCfg = Debug|x64
+		{677178AD-0A20-4569-8CC3-60D8E7D69203}.Debug|x64.Build.0 = Debug|x64
+		{677178AD-0A20-4569-8CC3-60D8E7D69203}.Debug|x86.ActiveCfg = Debug|Win32
+		{677178AD-0A20-4569-8CC3-60D8E7D69203}.Debug|x86.Build.0 = Debug|Win32
+		{677178AD-0A20-4569-8CC3-60D8E7D69203}.Release|x64.ActiveCfg = Release|x64
+		{677178AD-0A20-4569-8CC3-60D8E7D69203}.Release|x64.Build.0 = Release|x64
+		{677178AD-0A20-4569-8CC3-60D8E7D69203}.Release|x86.ActiveCfg = Release|Win32
+		{677178AD-0A20-4569-8CC3-60D8E7D69203}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
