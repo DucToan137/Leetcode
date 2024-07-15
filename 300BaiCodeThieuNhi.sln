@@ -207,6 +207,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2278.Percentage-of-Letter-i
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2520.Count-the-Digits-That-Divide-a-Number", "2520.Count-the-Digits-That-Divide-a-Number\2520.Count-the-Digits-That-Divide-a-Number.vcxproj", "{677178AD-0A20-4569-8CC3-60D8E7D69203}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1122.Relative-Sort-Array", "1122.Relative-Sort-Array\1122.Relative-Sort-Array.vcxproj", "{D2657D47-E00D-4A30-BF60-A02D90A4F977}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1031,6 +1033,14 @@ Global
 		{677178AD-0A20-4569-8CC3-60D8E7D69203}.Release|x64.Build.0 = Release|x64
 		{677178AD-0A20-4569-8CC3-60D8E7D69203}.Release|x86.ActiveCfg = Release|Win32
 		{677178AD-0A20-4569-8CC3-60D8E7D69203}.Release|x86.Build.0 = Release|Win32
+		{D2657D47-E00D-4A30-BF60-A02D90A4F977}.Debug|x64.ActiveCfg = Debug|x64
+		{D2657D47-E00D-4A30-BF60-A02D90A4F977}.Debug|x64.Build.0 = Debug|x64
+		{D2657D47-E00D-4A30-BF60-A02D90A4F977}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2657D47-E00D-4A30-BF60-A02D90A4F977}.Debug|x86.Build.0 = Debug|Win32
+		{D2657D47-E00D-4A30-BF60-A02D90A4F977}.Release|x64.ActiveCfg = Release|x64
+		{D2657D47-E00D-4A30-BF60-A02D90A4F977}.Release|x64.Build.0 = Release|x64
+		{D2657D47-E00D-4A30-BF60-A02D90A4F977}.Release|x86.ActiveCfg = Release|Win32
+		{D2657D47-E00D-4A30-BF60-A02D90A4F977}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
