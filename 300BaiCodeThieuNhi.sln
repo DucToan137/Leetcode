@@ -215,6 +215,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2085.Count-Common-Words-Wit
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1394.Find-Lucky-Integer-in-an-Array", "1394.Find-Lucky-Integer-in-an-Array\1394.Find-Lucky-Integer-in-an-Array.vcxproj", "{21E0B23B-250F-4EED-85B6-E83B47AEE906}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "217.Contains-Duplicate", "217.Contains-Duplicate\217.Contains-Duplicate.vcxproj", "{50885133-4068-4120-9D49-E24F4964EF19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1071,6 +1073,14 @@ Global
 		{21E0B23B-250F-4EED-85B6-E83B47AEE906}.Release|x64.Build.0 = Release|x64
 		{21E0B23B-250F-4EED-85B6-E83B47AEE906}.Release|x86.ActiveCfg = Release|Win32
 		{21E0B23B-250F-4EED-85B6-E83B47AEE906}.Release|x86.Build.0 = Release|Win32
+		{50885133-4068-4120-9D49-E24F4964EF19}.Debug|x64.ActiveCfg = Debug|x64
+		{50885133-4068-4120-9D49-E24F4964EF19}.Debug|x64.Build.0 = Debug|x64
+		{50885133-4068-4120-9D49-E24F4964EF19}.Debug|x86.ActiveCfg = Debug|Win32
+		{50885133-4068-4120-9D49-E24F4964EF19}.Debug|x86.Build.0 = Debug|Win32
+		{50885133-4068-4120-9D49-E24F4964EF19}.Release|x64.ActiveCfg = Release|x64
+		{50885133-4068-4120-9D49-E24F4964EF19}.Release|x64.Build.0 = Release|x64
+		{50885133-4068-4120-9D49-E24F4964EF19}.Release|x86.ActiveCfg = Release|Win32
+		{50885133-4068-4120-9D49-E24F4964EF19}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
