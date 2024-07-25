@@ -17,5 +17,8 @@ int main() {
 	vector<int> nums = {1};
 	cout << isArraySpecial(nums) << "\n";
 
+	vector<int> nums1 = {1, 3};
+	cout << isArraySpecial(nums1) << "\n";
+
 	return 0;
 }
