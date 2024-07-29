@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/">Find Lucky Integer in an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
+<h2><a href="https://leetcode.com/problems/find-lucky-integer-in-an-array/description/">Find Lucky Integer in an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
 
 <div class="elfjS" data-track-load="description_content"><p>Given an array of integers <code>arr</code>, a <strong>lucky integer</strong> is an integer that has a frequency in the array equal to its value.</p>
 
