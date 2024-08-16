@@ -1,5 +1,5 @@
-public class main {
-    public int maximumValue(String[] strs) {
+public class solution {
+    public static int maximumValue(String[] strs) {
         int result = Integer.MIN_VALUE;
 
         for (String str : strs) {
@@ -23,7 +23,7 @@ public class main {
         return result;
     }
 
-    public static void demo(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
