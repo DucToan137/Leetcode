@@ -24,6 +24,7 @@ class solution {
     }
 
     public static void main(String[] args) {
+
         int[] nums = { 123, 45, 67, 89 };
         solution s = new solution();
         System.out.println(s.differenceOfSum(nums));
