@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <cmath>
 
 using namespace std;
 
@@ -14,25 +15,16 @@ int sumOfDigits(int n)
     return sum;
 }
 
-int sumOfArray(vector<int> &nums)
-{
-    int sum = 0;
-    for (int i = 0; i < nums.size(); i++)
-    {
-        sum += nums[i];
-    }
-    return sum;
-}
-
 int differenceOfSum(vector<int> &nums)
 {
-    int sumArray = sumOfArray(nums);
+    int sumArray = 0;
     int sumDigits = 0;
     for (int i = 0; i < nums.size(); i++)
     {
         sumDigits += sumOfDigits(nums[i]);
+        sumArray += nums[i];
     }
-    return sumArray - sumDigits;
+    return abs(sumArray - sumDigits);
 }
 
 int main()
