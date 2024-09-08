@@ -27,5 +27,6 @@ public class solution {
         int right = 22;
         List<Integer> res = sol.selfDividingNumbers(left, right);
         System.out.println(res);
+
     }
 }
