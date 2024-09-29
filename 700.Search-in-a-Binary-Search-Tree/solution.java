@@ -33,7 +33,7 @@ public class solution {
     }
 
     public static void main(String[] args) {
-        solution s = new solution()
+        solution s = new solution();
         TreeNode root = s.new TreeNode(4);
         root.left = s.new TreeNode(2);
         root.right = s.new TreeNode(7);
