@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-days-between-two-dates/description/">Convert Sorted List to Binary Search Tree</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
+<h2><a href="https://leetcode.com/problems/number-of-days-between-two-dates/description/">Convert Sorted List to Binary Search Tree</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
 
 <div class="elfjS" data-track-load="description_content"><p>Write a program to count the number of days between two dates.</p>
 
